@@ -17,10 +17,13 @@
     <text name="RememberMe" value="记住我" />
     <text name="LogIn" value="登录" />
     <text name="LoginFailed" value="登录失败!" />
+    <text name="Register" value="注册" />
+    <text name="Back" value="返回" />
+    <text name="FullName" value="全名" />
     <text name="AppName" >MyProject</text>
     <text name="UserNamePlaceholder" >请输入账户</text>
     <text name="PasswordPlaceholder" >请输入密码</text>
-    <text name="CopyRight" >© 2018 MyProject</text>
+    <text name="CopyRight" >© 2019 MyProject</text>
     <text name="LoginPrompt" >正在登陆，请稍候！</text>
     <text name="UserProfile" >用户资料</text>
     <text name="Users" >用户</text>
@@ -69,6 +72,7 @@
     <text name="Yes">是</text>
     <text name="No">否</text>
     
+    <text name="Save">保存</text>
     <text name="Cancel">取消</text>
     <text name="OK">确定</text>
     <text name="CreateNewRole">创建新角色</text>
@@ -92,6 +96,14 @@
     <text name="DefaultPasswordIs">默认密码为：{0}</text>
     <text name="DeleteTenantConfirm">确认删除该租户？</text>
     <text name="EditTenant">编辑租户</text>
+    
+    <text name="PleaseWait">请稍等...</text>
+    <text name="MultiLevelMenu">多级菜单</text>
+    <text name="Skins">主题</text>
+    <text name="Settings">设置</text>
+    <text name="RoleDescription">角色描述</text>
+    <text name="Permissions">权限</text>
+    <text name="Refresh">刷新</text>
     
     
   </texts>

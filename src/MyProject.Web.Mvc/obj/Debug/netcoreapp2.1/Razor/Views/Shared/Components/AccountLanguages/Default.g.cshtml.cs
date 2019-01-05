@@ -73,7 +73,7 @@ using MyProject.Web.Views.Shared.Components.AccountLanguages;
             WriteLiteral("            ");
             EndContext();
             BeginContext(279, 375, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8d87f95d280a470d9226f2edb390737b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6de9c262e3254b5e846a1474c0315ed7", async() => {
                 BeginContext(445, 22, true);
                 WriteLiteral("\n                <span");
                 EndContext();
