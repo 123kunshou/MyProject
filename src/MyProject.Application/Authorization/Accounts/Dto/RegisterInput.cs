@@ -40,7 +40,7 @@ namespace MyProject.Authorization.Accounts.Dto
             {
                 if (!UserName.Equals(EmailAddress) && ValidationHelper.IsEmail(UserName))
                 {
-                    yield return new ValidationResult("Username cannot be an email address unless it's the same as your email address!");
+                    yield return new ValidationResult("用户名不能是电子邮件地址，除非它与您的电子邮件地址相同！"); /*Username cannot be an email address unless it's the same as your email address!*/
                 }
             }
         }

@@ -22,7 +22,7 @@ namespace MyProject.EntityFrameworkCore.Seed.Host
             AddSettingIfNotExists(EmailSettingNames.DefaultFromDisplayName, "mydomain.com mailer");
 
             // Languages
-            AddSettingIfNotExists(LocalizationSettingNames.DefaultLanguage, "en");
+            AddSettingIfNotExists(LocalizationSettingNames.DefaultLanguage, "zh-Hans"); //生成语言默认中文
         }
 
         private void AddSettingIfNotExists(string name, string value, int? tenantId = null)
