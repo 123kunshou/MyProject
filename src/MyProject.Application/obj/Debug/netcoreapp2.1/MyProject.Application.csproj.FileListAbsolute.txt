@@ -22,3 +22,15 @@ D:\个人开发\MyProject\src\MyProject.Application\obj\Debug\netcoreapp2.1\MyPr
 D:\个人开发\MyProject\src\MyProject.Application\obj\Debug\netcoreapp2.1\MyProject.Application.AssemblyInfoInputs.cache
 D:\个人开发\MyProject\src\MyProject.Application\obj\Debug\netcoreapp2.1\MyProject.Application.AssemblyInfo.cs
 D:\个人开发\MyProject\src\MyProject.Application\obj\Debug\netcoreapp2.1\MyProject.Application.csproj.CopyComplete
+G:\MyProject\src\MyProject.Application\bin\Debug\netcoreapp2.1\MyProject.Application.deps.json
+G:\MyProject\src\MyProject.Application\bin\Debug\netcoreapp2.1\MyProject.Application.dll
+G:\MyProject\src\MyProject.Application\bin\Debug\netcoreapp2.1\MyProject.Application.pdb
+G:\MyProject\src\MyProject.Application\bin\Debug\netcoreapp2.1\MyProject.Core.dll
+G:\MyProject\src\MyProject.Application\bin\Debug\netcoreapp2.1\MyProject.Core.pdb
+G:\MyProject\src\MyProject.Application\obj\Debug\netcoreapp2.1\MyProject.Application.csprojAssemblyReference.cache
+G:\MyProject\src\MyProject.Application\obj\Debug\netcoreapp2.1\MyProject.Application.csproj.CoreCompileInputs.cache
+G:\MyProject\src\MyProject.Application\obj\Debug\netcoreapp2.1\MyProject.Application.AssemblyInfoInputs.cache
+G:\MyProject\src\MyProject.Application\obj\Debug\netcoreapp2.1\MyProject.Application.AssemblyInfo.cs
+G:\MyProject\src\MyProject.Application\obj\Debug\netcoreapp2.1\MyProject.Application.csproj.CopyComplete
+G:\MyProject\src\MyProject.Application\obj\Debug\netcoreapp2.1\MyProject.Application.dll
+G:\MyProject\src\MyProject.Application\obj\Debug\netcoreapp2.1\MyProject.Application.pdb
