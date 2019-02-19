@@ -25,3 +25,4 @@ G:\MyProject\src\MyProject.Core\obj\Debug\netcoreapp2.1\MyProject.Core.AssemblyI
 G:\MyProject\src\MyProject.Core\obj\Debug\netcoreapp2.1\MyProject.Core.AssemblyInfo.cs
 G:\MyProject\src\MyProject.Core\obj\Debug\netcoreapp2.1\MyProject.Core.dll
 G:\MyProject\src\MyProject.Core\obj\Debug\netcoreapp2.1\MyProject.Core.pdb
+G:\MyProject\src\MyProject.Core\obj\Debug\netcoreapp2.1\MyProject.Core.csprojAssemblyReference.cache
